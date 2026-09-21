@@ -1,0 +1,6 @@
+{
+  "name": "Trò Chơi Toán 4: Tìm Phân Số Của Một Số",
+  "description": "Trò chơi học tập tương tác môn Toán lớp 4 (Sách Kết nối tri thức): Tìm phân số của một số với 15 câu hỏi đa dạng, phản hồi tức thì và âm thanh sinh động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
